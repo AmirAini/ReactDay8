@@ -1,0 +1,34 @@
+.main_header{
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: gray;
+}
+
+.main_header button{
+    margin-top: 30px;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+
+}
+
+h1 {
+    margin: 10px;
+}
+
+.dashboard_input {
+    width: 300px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.dashboard_header button {
+    width: 200px;
+    height: 50px;
+}

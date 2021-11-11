@@ -1,0 +1,25 @@
+.create_holder {
+    width: 100vw;
+    padding: 5px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-start;
+}
+
+.create_holder form{
+    margin-top: -10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+}
+
+.create_holder input {
+    margin-top: 5px;
+}
+
+.create_holder button {
+    margin-top: 5px;
+}

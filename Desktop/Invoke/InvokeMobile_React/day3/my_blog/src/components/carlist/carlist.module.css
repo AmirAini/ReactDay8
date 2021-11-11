@@ -1,0 +1,48 @@
+.carlist_header{
+    width: 100vw;
+    height: 230px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    margin-top: 10px;
+    background-color: gray;
+}
+
+.carlist_header h1 {
+    margin-left: 10px;
+
+}
+
+.carlist_image {
+    width: 200px;
+    height: 170px;
+    border-radius: 10px;
+    
+}
+
+.carlist_info{
+    width: 200px;
+    margin-left: 10px;
+    height: 170px;
+    margin-right: 100px;
+}
+
+.carlist_info p{
+    margin-left: 10px;
+}
+
+.carlist_desc{
+    width: 200px;
+    margin-left: 20px;
+    box-sizing: border-box;
+}
+
+.carlist_desc button {
+    border-radius: 10px;
+    width: 60px;
+    height: 30px;
+}

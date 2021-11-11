@@ -1,0 +1,25 @@
+.details_holder {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: flex-start;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: gray;
+    height: 90vh;
+    overflow: hidden;
+}
+
+.details_holder ul{
+    width: 500px;
+}
+
+.detail_left {
+    width: 400px;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-right: 100px;
+    justify-content: start;
+    align-items: flex-start;
+}
+
