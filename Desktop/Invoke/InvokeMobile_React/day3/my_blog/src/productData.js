@@ -3,7 +3,7 @@ export const products = [
 		id: "1",
 		name: "Touareg",
 		image:
-			"/product_img/Mazda_CX-9_2011_34_20_270_37_6_76_68_200_16_AWD_7_4_SUV_gJa.jpg",
+			"/ReactDay3/product_img/Mazda_CX-9_2011_34_20_270_37_6_76_68_200_16_AWD_7_4_SUV_gJa.jpg",
 		cost: "677.32",
 		short_description:
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.",
@@ -18,7 +18,7 @@ export const products = [
 		id: "2",
 		name: "DeVille",
 		image:
-			"/product_img/Chevrolet_Camaro_2019_31_18_270_20_4_74_52_188_20_RWD_4_2_Convertible_Xcu.jpg",
+			"/ReactDay3/product_img/Chevrolet_Camaro_2019_31_18_270_20_4_74_52_188_20_RWD_4_2_Convertible_Xcu.jpg",
 		cost: "3474.41",
 		short_description:
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.",
@@ -33,7 +33,7 @@ export const products = [
 		id: "3",
 		name: "F250",
 		image:
-			"/product_img/Jaguar_F-Pace_2017_41_18_180_20_4_76_65_186_26_AWD_5_4_SUV_Thp.jpg",
+			"/ReactDay3/product_img/Jaguar_F-Pace_2017_41_18_180_20_4_76_65_186_26_AWD_5_4_SUV_Thp.jpg",
 		cost: "2878.07",
 		short_description:
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.",
@@ -48,7 +48,7 @@ export const products = [
 		id: "4",
 		name: "Corvette",
 		image:
-			"/product_img/Bentley_Flying Spur_2011_181_19_550_60_12_77_55_208_11_AWD_5_4_4dr_FLx.jpg",
+			"/ReactDay3/product_img/Bentley_Flying Spur_2011_181_19_550_60_12_77_55_208_11_AWD_5_4_4dr_FLx.jpg",
 		cost: "4379.01",
 		short_description:
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.",
@@ -63,7 +63,7 @@ export const products = [
 		id: "5",
 		name: "MKX",
 		image:
-			"/product_img/Audi_R8_2017_189_19_610_52_10_76_48_174_14_AWD_2_2_2dr_nUS.jpg",
+			"/ReactDay3/product_img/Audi_R8_2017_189_19_610_52_10_76_48_174_14_AWD_2_2_2dr_nUS.jpg",
 		cost: "3274.66",
 		short_description:
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.",
@@ -78,7 +78,7 @@ export const products = [
 		id: "6",
 		name: "Accord",
 		image:
-			"/product_img/Cadillac_CT6_2016_58_18_260_20_4_74_57_204_22_RWD_5_4_4dr_yfN.jpg",
+			"/ReactDay3/product_img/Cadillac_CT6_2016_58_18_260_20_4_74_57_204_22_RWD_5_4_4dr_yfN.jpg",
 		cost: "758.8",
 		short_description:
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.",
@@ -93,7 +93,7 @@ export const products = [
 		id: "7",
 		name: "Suburban 2500",
 		image:
-			"/product_img/Chevrolet_Silverado 2500HD_2017_54_20_360_60_8_80_78_nan_nan_RWD_5_4_Pickup_FvP.jpg",
+			"/ReactDay3/product_img/Chevrolet_Silverado 2500HD_2017_54_20_360_60_8_80_78_nan_nan_RWD_5_4_Pickup_FvP.jpg",
 		cost: "2691.62",
 		short_description:
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.",
@@ -108,7 +108,7 @@ export const products = [
 		id: "8",
 		name: "LR2",
 		image:
-			"/product_img/Porsche_Macan_2015_49_19_340_30_6_76_63_184_17_AWD_5_4_SUV_mjd.jpg",
+			"/ReactDay3/product_img/Porsche_Macan_2015_49_19_340_30_6_76_63_184_17_AWD_5_4_SUV_mjd.jpg",
 		cost: "4801.29",
 		short_description:
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.",
