@@ -14,7 +14,7 @@ class Login extends React.Component{
                 <input type="text" placeholder="password" type="password"/>
                 
                 <button>
-                    <Link to="/dashboard">Submit Login This</Link>
+                    <Link to="/dashboard">Submit</Link>
                 </button>
 
             </div>
