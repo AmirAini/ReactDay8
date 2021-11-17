@@ -1,0 +1,12 @@
+.login_holder{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.login_holder input{
+    margin-top: 10px;
+}

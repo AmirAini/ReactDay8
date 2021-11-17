@@ -1,0 +1,15 @@
+.login_holder{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.login_form{
+    margin: 10px;
+
+}
+    
