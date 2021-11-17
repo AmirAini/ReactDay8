@@ -1,0 +1,25 @@
+.home_holder{
+    padding: 20px;
+    margin: 0, auto;
+    box-sizing: border-box;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    
+}
+
+.home_holder button {
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+.home_holder input {
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: gray;
+}
