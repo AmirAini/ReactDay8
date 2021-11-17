@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactDay8/static/css/main.ad861c2e.chunk.css",
-    "main.js": "/ReactDay8/static/js/main.a07c46f3.chunk.js",
-    "main.js.map": "/ReactDay8/static/js/main.a07c46f3.chunk.js.map",
+    "main.js": "/ReactDay8/static/js/main.64a42e9c.chunk.js",
+    "main.js.map": "/ReactDay8/static/js/main.64a42e9c.chunk.js.map",
     "runtime-main.js": "/ReactDay8/static/js/runtime-main.c6471c44.js",
     "runtime-main.js.map": "/ReactDay8/static/js/runtime-main.c6471c44.js.map",
     "static/js/2.e19ba824.chunk.js": "/ReactDay8/static/js/2.e19ba824.chunk.js",
@@ -12,12 +12,12 @@
     "index.html": "/ReactDay8/index.html",
     "static/css/main.ad861c2e.chunk.css.map": "/ReactDay8/static/css/main.ad861c2e.chunk.css.map",
     "static/js/2.e19ba824.chunk.js.LICENSE.txt": "/ReactDay8/static/js/2.e19ba824.chunk.js.LICENSE.txt",
-    "static/js/main.a07c46f3.chunk.js.LICENSE.txt": "/ReactDay8/static/js/main.a07c46f3.chunk.js.LICENSE.txt"
+    "static/js/main.64a42e9c.chunk.js.LICENSE.txt": "/ReactDay8/static/js/main.64a42e9c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c6471c44.js",
     "static/js/2.e19ba824.chunk.js",
     "static/css/main.ad861c2e.chunk.css",
-    "static/js/main.a07c46f3.chunk.js"
+    "static/js/main.64a42e9c.chunk.js"
   ]
 }
